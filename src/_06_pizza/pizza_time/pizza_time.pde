@@ -1,4 +1,4 @@
- PImage pepperoni;
+PImage pepperoni;
 void setup() {
     size(500, 500);
     fill (#EDC945);
